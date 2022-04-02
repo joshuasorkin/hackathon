@@ -1,0 +1,11 @@
+{
+	"name": "project",
+	"description": "Sample solution for terrible_ui hackathon",
+	"link": "https://example.com (Optional if hosted)",
+	"contributors": [
+		{
+			"name": "Joshua Sorkin",
+			"github": "https://github.com/joshuasorkin"
+		}
+	]
+}
